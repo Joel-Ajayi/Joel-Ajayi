@@ -58,5 +58,3 @@ I’m a **full-stack web/mobile app developer** & **computer vision engineer** w
 - 🔗 LinkedIn: [linkedin.com/in/ayotunde-ajayi](https://linkedin.com/in/yotstack)  
 - 𝕏 Twitter: [@AyotundeAjayi]([https://twitter.com/AyotundeAjayi](https://x.com/__yotstack))  
 ---
-
-*“Turning pixels into reality—one 3D mesh at a time.”*  
