@@ -10,7 +10,6 @@ I’m a **full-stack web/mobile app developer** & **computer vision engineer** w
 ## 🚀 Tech Stack
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-
 **Frameworks & Libraries**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
 **CV & ML**  
