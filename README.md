@@ -1,7 +1,4 @@
 # Hi there, I’m Ayotunde Ajayi 👋
----
-
-## 🔭 About Me
 I’m a **full-stack web/mobile app developer** & **computer vision engineer** with a passion for, **deep learning**, **3D reconstruction**, and **real-time inference**.
 
 - **Web Development**: Architect scalable, modular applications with Next.js, NestJS, Node.js, Redux & TypeScript, adopting a clear layered MVC approach.  
