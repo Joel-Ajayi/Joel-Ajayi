@@ -52,5 +52,5 @@ I’m a **full-stack web/mobile app developer** & **computer vision engineer** w
 
 - ✉️ Email: yotstack@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/ayotunde-ajayi](https://linkedin.com/in/yotstack)  
-- 𝕏 Twitter: [@AyotundeAjayi]([https://twitter.com/AyotundeAjayi](https://x.com/__yotstack))  
+- 𝕏 : [@AyotundeAjayi](https://x.com/__yotstack)
 ---
