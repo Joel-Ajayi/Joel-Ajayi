@@ -18,21 +18,6 @@ I’m a **full-stack web/mobile app developer** & **computer vision engineer** w
 **Tools & Platforms**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-6A4C93)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  ![Render](https://img.shields.io/badge/-Render-424242?logo=render&logoColor=white)  ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)  
 
-## 📂 Selected Projects
-  - **Smart Tailor (3D Virtual Try-On) (Development in Progress....)**  
-  • Capture 360° video → NeRF reconstruction → extract real-world body metrics → dynamic garment overlay & pose editing.  
-  • Implements camera-intrinsic retrieval via Flutter platform channels (Android & iOS).  
-  • Scale recovery using single-image height estimation & Gaussian Splatting for ultra-realistic rendering.
-
-  - **YOLOv11 Parking-Space Detector**  
-  • Real-time inference on RTSP IP camera feeds using PKLot dataset (PUCPR, UFPR04/05).  
-  • Custom XML parsing & Anaconda environment for streamlined training & deployment.
-
-  - **NextgenSpike Store (E-commerce Platform)**  
-  • Modern e-commerce site for electronics & computer accessories, with a ReactJS + TypeScript client and a Node.js + Express GraphQL API server.  
-  • MongoDB database managed via Prisma ORM; features product catalog with sorting/filtering, cart with card & COD options, and order tracking.  
-  • Admin controller app with role-based management of users, products, brands, categories, and orders.  
----
 
 ## 🧠 Education & Certifications
 
