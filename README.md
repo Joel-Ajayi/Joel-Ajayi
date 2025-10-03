@@ -32,11 +32,6 @@ I’m a **full-stack web/mobile app developer** & **computer vision engineer** w
   • Modern e-commerce site for electronics & computer accessories, with a ReactJS + TypeScript client and a Node.js + Express GraphQL API server.  
   • MongoDB database managed via Prisma ORM; features product catalog with sorting/filtering, cart with card & COD options, and order tracking.  
   • Admin controller app with role-based management of users, products, brands, categories, and orders.  
-
-  - **Notarization App**  
-  • Next.js frontend & NestJS backend with layered MVC architecture (controllers, services, models).  
-  • Secure authentication: JWT + Google OAuth + refresh tokens.  
-  • Deployed on Render with automated Docker pipelines.
 ---
 
 ## 🧠 Education & Certifications
