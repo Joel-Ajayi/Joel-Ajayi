@@ -12,11 +12,11 @@ I’m a **full-stack web/mobile app developer** & **computer vision engineer** w
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/-Rust-E0234E?logo=rust&logoColor=white)
 
 **Frameworks & Libraries**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 **CV & ML**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![YOLOv8](https://img.shields.io/badge/-YOLOv8-000000)  ![NeRF](https://img.shields.io/badge/-NeRF-4B8BBE)  ![Gaussian Splatting](https://img.shields.io/badge/-Gaussian%20Splatting-9B4F96)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![Gaussian Splatting](https://img.shields.io/badge/-Gaussian%20Splatting-9B4F96)  
 **Tools & Platforms**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-6A4C93)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  ![Render](https://img.shields.io/badge/-Render-424242?logo=render&logoColor=white)  ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-6A4C93)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) 
 
 
 ## 🧠 Education & Certifications
