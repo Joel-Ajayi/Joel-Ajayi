@@ -1,6 +1,6 @@
 # Hi, I’m Ayotunde Ajayi 👋
 
-I’m a **backend-focused software engineer** and **Computer Engineering undergraduate** with hands-on experience building production APIs, containerized backend systems, and applied computer vision pipelines.
+I’m a **backend-focused software engineer** with hands-on experience building production APIs, containerized backend systems, and applied computer vision pipelines.
 
 My primary interests are **high-performance backend systems**, **asynchronous Rust**, **distributed systems**, and **production deployment of ML/3D pipelines on Linux and cloud infrastructure**.
 
