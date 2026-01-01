@@ -1,29 +1,111 @@
-# Hi there, I’m Ayotunde Ajayi 👋
-I’m a **full-stack web/mobile app developer** & **computer vision engineer** with a passion for, **deep learning**, **3D reconstruction**, and **real-time inference**.
+# Hi, I’m Ayotunde Ajayi 👋
 
-- **Web Development**: Architect scalable, modular applications with Next.js, NestJS, Node.js, Redux & TypeScript, adopting a clear layered MVC approach.  
-- **AI & Computer Vision**: Design PyTorch pipelines for image segmentation, YOLOv8/v11 object detection, face recognition/verification, and live-feed inference.  
-- **Growth Areas**: Expanding into sequence models, transformers, and 3D computer vision (NeRF, Gaussian Splatting) to push the boundaries in Augmented Reality.
+I’m a **backend-focused software engineer** and **Computer Engineering undergraduate** with hands-on experience building production APIs, containerized backend systems, and applied computer vision pipelines.
+
+My primary interests are **high-performance backend systems**, **asynchronous Rust**, **distributed systems**, and **production deployment of ML/3D pipelines on Linux and cloud infrastructure**.
 
 ---
 
 ## 🚀 Tech Stack
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/-Rust-E0234E?logo=rust&logoColor=white)
 
-**Frameworks & Libraries**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-**CV & ML**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![Gaussian Splatting](https://img.shields.io/badge/-Gaussian%20Splatting-9B4F96)  
-**Tools & Platforms**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-6A4C93)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) 
+### Languages
+![Rust](https://img.shields.io/badge/-Rust-E0234E?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
+### Backend & Infrastructure
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express)
+![Axum](https://img.shields.io/badge/-Axum-A0944E?logo=axum&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-## 🧠 Education & Certifications
+### ML / Computer Vision
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![PyTorch3D](https://img.shields.io/badge/-PyTorch3D-EE4C2C)
+![Gaussian Splatting](https://img.shields.io/badge/-Gaussian%20Splatting-9B4F96)
 
-- **The Complete Data Structures and Algorithms Course in Python** (Udemy)
-- **Deep Learning Specialization** (Andrew Ng / DeepLearning.AI)  
-- **Advanced Computer Vision & GANs** (DeepLearning.AI)
-- **Mathematics for Machine Learning and Data Science Specialization** (DeepLearning.AI)
-- **The Complete 2024 Web Development Bootcamp** (Angela Yu / Udemy)
 ---
+
+
+## 🔍 What I Focus On
+
+### Backend & Systems Engineering
+- Building backend services with **Rust**, **NestJS / Express**, and **Python**
+- Asynchronous programming, networking fundamentals, and Linux-based systems
+- Containerization with Docker and deployment on cloud Linux VMs
+- Designing APIs, authentication flows, and data pipelines
+
+### Computer Vision & 3D
+- Applied work in **PyTorch / PyTorch3D**
+- 3D reconstruction from monocular video using:
+  - Gaussian Splatting
+  - SMPL-based human modeling
+- Interest in efficient inference pipelines and GPU-backed systems
+
+### Production-Oriented Development
+- Turning research ideas into deployable backend systems
+- Emphasis on reliability, reproducibility, and clean architecture
+- Experience working with real users and production constraints
+
+---
+
+## 🧠 Featured Projects
+
+### 🧥 SmartAR Tailor — 3D Body Measurement Platform
+A fashion-tech system that converts a **15-second smartphone video** into a **3D human reconstruction** and accurate body measurements.
+
+**Key highlights**
+- Mobile video capture pipeline
+- Backend-triggered 3D reconstruction using **Gaussian Splatting + SMPL**
+- Measurement extraction with PDF / JSON export
+- GPU-backed deployment on AWS / RunPod
+- Ongoing migration of backend services to **Rust** for performance and scalability
+
+Tech: Rust (planned), Python (PyTorch / PyTorch3D), Docker, Linux, REST APIs
+
+---
+
+### ⛓️ Custom Blockchain (Yotquitas)
+An ongoing systems project implementing a blockchain from scratch in **Rust**.
+
+**Focus areas**
+- Networking and peer communication
+- Transaction flow and state handling
+- Systems-level design for DeFi-oriented applications
+
+Tech: Rust, Docker, Linux, REST APIs
+
+---
+
+### 🛒 NextgenSpike — Backend-Centric E-commerce Platform
+A full backend system for an e-commerce platform with admin management and order processing.
+
+Tech: Express.js, GraphQL, Docker, PostgreSQL, Linux
+
+---
+
+## 📚 Training & Learning
+
+- **Rust Programming Specialization** — Duke University *(In Progress)*
+- Deep Learning Specialization — DeepLearning.AI
+- Machine Learning Specialization — DeepLearning.AI
+- Data Structures & Algorithms in Python
+
+---
+
+## 🎯 Current Goals
+
+- Become internship-ready in **backend & distributed systems**
+- Build production-grade services in **async Rust**
+- Deepen understanding of **networking, concurrency, and cloud-native architectures**
+- Ship real systems that bridge **ML research and backend engineering**
+
+---
+
+## 🤝 Connect
+
+- GitHub: https://github.com/Joel-Ajayi
+- LinkedIn: https://linkedin.com/in/yotstack
+
+I’m actively seeking **backend / systems / Rust-focused internships**.
