@@ -7,9 +7,6 @@ My primary interests are **high-performance backend systems**, **asynchronous Ru
 ---
 
 ## 🚀 Tech Stack
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joel-ajayi&theme=default)
-
 ### Languages
 ![Rust](https://img.shields.io/badge/-Rust-E0234E?logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
