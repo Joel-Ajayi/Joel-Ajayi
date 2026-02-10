@@ -43,65 +43,12 @@ My primary interests are **high-performance backend systems**, **asynchronous Ru
   - SMPL-based human modeling
 - Interest in efficient inference pipelines and GPU-backed systems
 
-### Production-Oriented Development
-- Turning research ideas into deployable backend systems
-- Emphasis on reliability, reproducibility, and clean architecture
-- Experience working with real users and production constraints
-
----
-
-## 🧠 Featured Projects
-
-### 🧥 SmartAR Tailor — 3D Body Measurement Platform
-A fashion-tech system that converts a **15-second smartphone video** into a **3D human reconstruction** and accurate body measurements.
-
-**Key highlights**
-- Mobile video capture pipeline
-- Backend-triggered 3D reconstruction using **Gaussian Splatting + SMPL**
-- Measurement extraction with PDF / JSON export
-- GPU-backed deployment on AWS / RunPod
-- Ongoing migration of backend services to **Rust** for performance and scalability
-
-Tech: Rust (planned), Python (PyTorch / PyTorch3D), Docker, Linux, REST APIs
-
----
-
-### ⛓️ Custom Blockchain (Yotquitas)
-An ongoing systems project implementing a blockchain from scratch in **Rust**.
-
-**Focus areas**
-- Networking and peer communication
-- Transaction flow and state handling
-- Systems-level design for DeFi-oriented applications
-
-Tech: Rust, Docker, Linux, REST APIs
-
----
-
-### 🛒 NextgenSpike — Backend-Centric E-commerce Platform
-A full backend system for an e-commerce platform with admin management and order processing.
-
-Tech: Express.js, GraphQL, Docker, PostgreSQL, Linux
-
----
-
 ## 📚 Training & Learning
 
 - **Rust Programming Specialization** — Duke University *(In Progress)*
 - Deep Learning Specialization — DeepLearning.AI
 - Machine Learning Specialization — DeepLearning.AI
 - Data Structures & Algorithms in Python
-
----
-
-## 🎯 Current Goals
-
-- Become internship-ready in **backend & distributed systems**
-- Build production-grade services in **async Rust**
-- Deepen understanding of **networking, concurrency, and cloud-native architectures**
-- Ship real systems that bridge **ML research and backend engineering**
-
----
 
 ## 🤝 Connect
 
