@@ -8,6 +8,8 @@ My primary interests are **high-performance backend systems**, **asynchronous Ru
 
 ## 🚀 Tech Stack
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joel-ajayi&theme=default)
+
 ### Languages
 ![Rust](https://img.shields.io/badge/-Rust-E0234E?logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -17,7 +19,11 @@ My primary interests are **high-performance backend systems**, **asynchronous Ru
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express)
 ![Axum](https://img.shields.io/badge/-Axum-A0944E?logo=axum&logoColor=white)
+
+### Backend & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-2296ED?logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ### ML / Computer Vision
