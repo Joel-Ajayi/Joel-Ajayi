@@ -20,7 +20,7 @@ My primary interests are **high-performance backend systems**, **asynchronous Ru
 ### Backend & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2296ED?logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io)
+![CI/CD](https://img.shields.io/badge/-githubactions-2296AD?logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ### ML / Computer Vision
@@ -52,10 +52,3 @@ My primary interests are **high-performance backend systems**, **asynchronous Ru
 - Deep Learning Specialization — DeepLearning.AI
 - Machine Learning Specialization — DeepLearning.AI
 - Data Structures & Algorithms in Python
-
-## 🤝 Connect
-
-- GitHub: https://github.com/Joel-Ajayi
-- LinkedIn: https://linkedin.com/in/yotstack
-
-I’m actively seeking **backend / systems / Rust-focused internships**.
