@@ -2,8 +2,7 @@
 
 Backend and distributed-systems engineer. I work mostly in **Go** and **Rust**, close to the layer where correctness and failure handling live. My focus is distributed systems, payment-grade infrastructure, and the observability around it.
 
-KCNA certified (CNCF). First-Class Computer Engineering, FUTA, graduating 2027.
-[yotstack.tech](https://yotstack.tech) · [LinkedIn](https://www.linkedin.com/in/yotstack)
+KCNA certified (CNCF). [yotstack.tech](https://yotstack.tech) · [LinkedIn](https://www.linkedin.com/in/yotstack)
 
 ---
 
